@@ -1,0 +1,4 @@
+# dist目录，不用被 eslint 校验
+/dist
+# 第三方JS库，不用被 eslint 校验
+/src/vender 
